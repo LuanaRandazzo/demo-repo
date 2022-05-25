@@ -7,4 +7,6 @@ some text
 
 1. open index.html in your browser
 
-this is the end
+this is the end!!
+
+have fun. 
